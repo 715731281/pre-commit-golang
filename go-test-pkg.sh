@@ -2,7 +2,7 @@
 
 cmd=(go test)
 
-export GO111MODULE=off
+# export GO111MODULE=off
 
 OPTIONS=()
 # If arg doesn't pass [ -f ] check, then it is assumed to be an option
